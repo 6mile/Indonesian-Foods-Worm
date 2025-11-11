@@ -17,6 +17,7 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | sernaam.b.y | 4468 | ? |
 | rudiox | 435 | ? |
 | bipyruss | 5250 | ? |
+| vayza | 5244 | auto.js |
 
 ## Total Impact
 - **Total Users**: 10
