@@ -18,9 +18,10 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | rudiox | 435 | ? |
 | bipyruss | 5250 | ? |
 | vayza | 5244 | auto.js |
+| seblakkuah | 2519 | ? |
 
 ## Total Impact
-- **Total Users**: 11
+- **Total Users**: 12
 - **Total Packages**: 43964 (minimum identified)
 
 ## Characteristics
