@@ -20,14 +20,13 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | vayza | 5244 | auto.js |
 
 ## Total Impact
-- **Total Users**: 10
-- **Total Packages**: 38720 (minimum identified)
+- **Total Users**: 11
+- **Total Packages**: 43964 (minimum identified)
 
 ## Characteristics
 - Naming scheme follows Indonesian food-related terminology
 - Coordinated publication pattern across multiple accounts
 - Internal dictionary uses bizarre Indonesian food references
-- Each package contains a JavaScript payload file named after the user
 
 ## Status
 Investigation ongoing. Additional users and packages may be identified.
