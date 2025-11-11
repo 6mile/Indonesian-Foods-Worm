@@ -7,7 +7,7 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 
 | NPM User | Number of Packages | Payload File |
 |----------|-------------------|--------------|
-| veyla | 11942 | veyla-payload.js |
+| veyla | 11942 | auto.js |
 | doaortu | 496 | doaortu-payload.js |
 | jarwok | 1821 | jarwok-payload.js |
 | noirdnv | 12072 | noirdnv-payload.js |
