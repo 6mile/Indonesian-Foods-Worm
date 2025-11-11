@@ -16,13 +16,13 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | yunina | 5250 | auto.js |
 | sernaam.b.y | 4468 | ? |
 | rudiox | 435 | ? |
-| bipyruss | 5250 | ? |
+| bipyruss | 5250 | index.js |
 | vayza | 5244 | auto.js |
-| seblakkuah | 2519 | ? |
+| seblakkuah | 2519 | auto.js |
 
 ## Total Impact
 - **Total Users**: 12
-- **Total Packages**: 43964 (minimum identified)
+- **Total Packages**: 46484 (minimum identified)
 
 ## Characteristics
 - Naming scheme follows Indonesian food-related terminology
