@@ -7,17 +7,20 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 
 | NPM User | Number of Packages | Payload File |
 |----------|-------------------|--------------|
-| veyla | 11942 | auto.js |
-| doaortu | 496 | doaortu-payload.js |
-| jarwok | 1821 | jarwok-payload.js |
-| noirdnv | 12072 | noirdnv-payload.js |
-| vndra | 11870 | vndra-payload.js |
-| voinza | 13146 | voinza-payload.js |
-| yunina | 12850 | yunina-payload.js |
+| veyla | 5250 | auto.js |
+| doaortu | 496 | auto.js |
+| jarwok | 1821 | publishScript.js |
+| noirdnv | 5250 | auto.js |
+| vndra | 5250 | publishScript.js |
+| voinza | 5250 | auto.js |
+| yunina | 5250 | auto.js |
+| sernaam.b.y | 4468 | ? |
+| rudiox | 435 | ? |
+| bipyruss | 5250 | ? |
 
 ## Total Impact
-- **Total Users**: 7
-- **Total Packages**: 64197 (minimum identified)
+- **Total Users**: 10
+- **Total Packages**: 38720 (minimum identified)
 
 ## Characteristics
 - Naming scheme follows Indonesian food-related terminology
