@@ -23,10 +23,13 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | abbeey | 844 | ? |
 | mraihannaufal | 31 | ? |
 | rajhsinggg | 5250 | ? |
+| abbeey | 844 | ? |
+| miftaikyy | 1099 | ? |
+| ryliefrey | 5250 | ? |
 
 ## Total Impact
-- **Total Users**: 12
-- **Total Packages**: 46484 (minimum identified)
+- **Total Users**: 49 (users with less than ten packages are not listed above)
+- **Total Packages**: 59581 (minimum identified)
 
 ## Characteristics
 - Naming scheme follows Indonesian food-related terminology
