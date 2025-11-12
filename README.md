@@ -19,6 +19,10 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | bipyruss | 5250 | index.js |
 | vayza | 5244 | auto.js |
 | seblakkuah | 2519 | auto.js |
+| doelsumbing87 | 623 | ? |
+| abbeey | 844 | ? |
+| mraihannaufal | 31 | ? |
+| rajhsinggg | 5250 | ? |
 
 ## Total Impact
 - **Total Users**: 12
