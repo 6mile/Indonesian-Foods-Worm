@@ -31,10 +31,11 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | mipppp | 5250 | ? |
 | mipta1 | 4668 | ? |
 | waifurs | 39 | ? |
+| sonyamiaw | 5218 | ? |
 
 ## Total Impact
-- **Total Users**: 55 (users with less than ten packages are not listed above)
-- **Total Packages**: 72868 (minimum identified)
+- **Total Users**: 56 (users with less than ten packages are not listed above)
+- **Total Packages**: 78086 (minimum identified)
 
 ## Characteristics
 - Naming scheme follows Indonesian food-related terminology
