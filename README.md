@@ -28,10 +28,13 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | ryliefrey | 5250 | ? |
 | akunsansan0 | 405 | ? |
 | mizukiyakane | 2925 | ? |
+| mipppp | 5250 | ? |
+| mipta1 | 4668 | ? |
+| waifurs | 39 | ? |
 
 ## Total Impact
-- **Total Users**: 53 (users with less than ten packages are not listed above)
-- **Total Packages**: 67579 (minimum identified)
+- **Total Users**: 55 (users with less than ten packages are not listed above)
+- **Total Packages**: 72868 (minimum identified)
 
 ## Characteristics
 - Naming scheme follows Indonesian food-related terminology
