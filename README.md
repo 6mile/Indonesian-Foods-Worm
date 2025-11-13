@@ -30,12 +30,17 @@ This is a coordinated NPM worm campaign involving multiple user accounts publish
 | mizukiyakane | 2925 | ? |
 | mipppp | 5250 | ? |
 | mipta1 | 4668 | ? |
+| mipta19 | 4524 | ? |
+| miptaa02 | 3650 | ? |
 | waifurs | 39 | ? |
 | sonyamiaw | 5218 | ? |
+| trevorali | 313 | ? |
+| miptaa02 | 3650 | ? |
+| jazuli | 10 | ? |
 
 ## Total Impact
-- **Total Users**: 56 (users with less than ten packages are not listed above)
-- **Total Packages**: 78086 (minimum identified)
+- **Total Users**: 60 (users with less than ten packages are not listed above)
+- **Total Packages**: 86583 (minimum identified)
 
 ## Characteristics
 - Naming scheme follows Indonesian food-related terminology
